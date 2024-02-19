@@ -1,3 +1,4 @@
+/* selector pe taguri prin fisierul .css extern */
 div{
     background-color: crimson;
 }
@@ -6,4 +7,14 @@ div p{
 }
 span h2 {
     color: lightpink;
+}
+div ul, li{
+    background-color: darkolivegreen;
+    color: black;
+}
+div ol{
+    background-color: springgreen;
+}
+header{
+    color: aquamarine;
 }
