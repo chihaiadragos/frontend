@@ -18,3 +18,9 @@ div ol{
 header{
     color: aquamarine;
 }
+.divheader {
+    background-color: aliceblue;
+}
+#span h2{
+    color: aliceblue;
+}
